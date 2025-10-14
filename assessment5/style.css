@@ -1,0 +1,7 @@
+#rating span{
+    cursor: pointer;
+    font-size: 30px;
+}
+#rating span.active{
+    color: yellow;
+}
